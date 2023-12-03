@@ -1,0 +1,8 @@
+# Ignore all .log files
+*.log
+
+# Ignore specific directories
+/vendor/
+
+# Ignore specific files
+/config/database.yml
