@@ -2,7 +2,8 @@
 *.log
 
 # Ignore specific directories
-/vendor/
+/results/
+/data/
 
 # Ignore specific files
 /config/database.yml
